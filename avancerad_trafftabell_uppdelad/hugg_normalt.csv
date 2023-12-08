@@ -1,0 +1,27 @@
+Normalt h,Kroppsdel,Delområde,Kod
+01–08,Huvud,Ansikte,1
+09–16,Huvud,Skalle,2
+17–20,Huvud,Hals,3
+21–30,Torso,Bröstkorg,4
+31–38,Torso,Mage,5
+39–40,Torso,Underliv,6
+41–44,Vänster arm,Skuldra,7
+45–48,Vänster arm,Överarm,9
+49–50,Vänster arm,Armbåge,11
+51–56,Vänster arm,Underarm,13
+57–60,Vänster arm,Hand,15
+61–64,Höger arm,Skuldra,8
+65–68,Höger arm,Överarm,10
+69–70,Höger arm,Armbåge,12
+71–76,Höger arm,Underarm,14
+77–80,Höger arm,Hand,16
+81–82,Vänster ben,Höft,17
+83–84,Vänster ben,Lår,19
+85–86,Vänster ben,Knä,21
+87–89,Vänster ben,Vad,23
+90,Vänster ben,Fot,25
+91–92,Höger ben,Höft,18
+93–94,Höger ben,Lår,20
+95–96,Höger ben,Knä,22
+97–99,Höger ben,Vad,24
+100,Höger ben,Fot,26
