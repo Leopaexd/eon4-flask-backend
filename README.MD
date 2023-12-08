@@ -1,5 +1,3 @@
-Absolutely, I can provide a `README.md` in Swedish for your project. Since the repository is for personal use among friends, I'll exclude the contributing section. Here's the adapted `README.md`:
-
 # Enkelt API för Skadeberäkning till Eon 4
 
 ### API Endpoints
